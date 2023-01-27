@@ -4,3 +4,5 @@ Repo of some solutions to some small coding problems.
 Function that takes a string formatted "2a3b2c" and expands it to return "aabbbcc"
 ## paired.py
 A function that finds the 2 numbers in a list that add up to a target value and prints the indicies of the values within that list.
+## intersection.py
+A function that returns a list of numbers that appear in 2 given lists
